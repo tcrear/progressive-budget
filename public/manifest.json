@@ -3,7 +3,7 @@
     "name": "Budget Tracking App",
     "icons": [
       {
-        "src": "/icons/icons-192.png",
+        "src": "/icons/icons-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       }
