@@ -8,7 +8,7 @@ U of MN Bootcamp Homework #19
   - [Usage](#usage)
   - [Contribution](#contribution)
   - [Tests](#tests)
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  - [License](#license)
   - [Questions](#questions)
   - [Links](#links)
 
